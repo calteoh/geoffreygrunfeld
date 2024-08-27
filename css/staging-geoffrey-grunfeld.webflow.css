@@ -520,7 +520,7 @@ a:hover {
 }
 
 .logo-text {
-  color: #42312e;
+  color: #422121;
   text-transform: uppercase;
   font-family: Fkgrotesktrial, sans-serif;
   font-size: 28px;
@@ -712,7 +712,7 @@ a:hover {
 }
 
 .gg-link {
-  color: #42312e;
+  color: #422121;
 }
 
 .gg-link.w--current {
@@ -721,7 +721,7 @@ a:hover {
 
 .menu {
   z-index: 100;
-  background-color: #382927;
+  background-color: #381c1c;
   border-radius: 20px;
   width: 18px;
   height: 18px;
