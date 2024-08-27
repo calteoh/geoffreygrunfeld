@@ -520,7 +520,7 @@ a:hover {
 }
 
 .logo-text {
-  color: #231715;
+  color: #42312e;
   text-transform: uppercase;
   font-family: Fkgrotesktrial, sans-serif;
   font-size: 28px;
@@ -712,7 +712,7 @@ a:hover {
 }
 
 .gg-link {
-  color: #231715;
+  color: #42312e;
 }
 
 .gg-link.w--current {
@@ -721,7 +721,7 @@ a:hover {
 
 .menu {
   z-index: 100;
-  background-color: #231715;
+  background-color: #382927;
   border-radius: 20px;
   width: 18px;
   height: 18px;
@@ -730,14 +730,14 @@ a:hover {
 }
 
 .menu:hover {
-  background-color: #231715;
+  background-color: #161616;
   border: 1px #000;
   transform: scale(1.1);
 }
 
 .menu-2 {
   z-index: 100;
-  background-color: #23171500;
+  background-color: #16161600;
   border: 1px solid #ccc9c8;
   border-radius: 20px;
   width: 18px;
@@ -747,7 +747,7 @@ a:hover {
 }
 
 .menu-2:hover {
-  background-color: #23171500;
+  background-color: #16161600;
   border: 1px solid #ccc9c8;
   transform: scale(1.1);
 }
