@@ -1,3 +1,67 @@
+@font-face {
+  font-family: Neuehaasdisplay roman;
+  src: url('../fonts/NeueHaasDisplay-Roman.woff2') format("woff2"), url('../fonts/NeueHaasDisplay-Roman.eot') format("embedded-opentype"), url('../fonts/NeueHaasDisplay-Roman.woff') format("woff"), url('../fonts/NeueHaasDisplay-Roman.ttf') format("truetype"), url('../fonts/NeueHaasDisplay-Roman.svg') format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Neuehaasdisplay mediu;
+  src: url('../fonts/NeueHaasDisplay-Mediu.woff2') format("woff2"), url('../fonts/NeueHaasDisplay-Mediu.eot') format("embedded-opentype"), url('../fonts/NeueHaasDisplay-Mediu.woff') format("woff"), url('../fonts/NeueHaasDisplay-Mediu.ttf') format("truetype"), url('../fonts/NeueHaasDisplay-Mediu.svg') format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Neuehaasdisplay Light;
+  src: url('../fonts/NeueHaasDisplay-Light.woff2') format("woff2"), url('../fonts/NeueHaasDisplay-Light.woff') format("woff"), url('../fonts/NeueHaasDisplay-Light.ttf') format("truetype"), url('../fonts/NeueHaasDisplay-Light.ttf') format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Abcgaisyrmono Book;
+  src: url('../fonts/ABCGaisyrMono-Book.woff2') format("woff2"), url('../fonts/ABCGaisyrMono-Book.eot') format("embedded-opentype"), url('../fonts/ABCGaisyrMono-Book.woff') format("woff"), url('../fonts/ABCGaisyrMono-Book.ttf') format("truetype"), url('../fonts/ABCGaisyrMono-Book.svg') format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Bembomtpro;
+  src: url('../fonts/BemboMTPro-Regular.woff2') format("woff2"), url('../fonts/BemboMTPro-Regular.eot') format("embedded-opentype"), url('../fonts/BemboMTPro-Regular.woff') format("woff"), url('../fonts/BemboMTPro-Regular.ttf') format("truetype"), url('../fonts/BemboMTPro-Regular.otf') format("opentype"), url('../fonts/BemboMTPro-Regular.svg') format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Gt Sectra Fine Trial Book;
+  src: url('../fonts/GT-Sectra-Fine-Trial-Book.woff2') format("woff2"), url('../fonts/GT-Sectra-Fine-Trial-Book.eot') format("embedded-opentype"), url('../fonts/GT-Sectra-Fine-Trial-Book.woff') format("woff"), url('../fonts/GT-Sectra-Fine-Trial-Book.ttf') format("truetype"), url('../fonts/GT-Sectra-Fine-Trial-Book.otf') format("opentype"), url('../fonts/GT-Sectra-Fine-Trial-Book.svg') format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Fkgrotesktrial;
+  src: url('../fonts/FKGroteskTrial-Bold.woff2') format("woff2"), url('../fonts/FKGroteskTrial-Bold.eot') format("embedded-opentype"), url('../fonts/FKGroteskTrial-Bold.woff') format("woff"), url('../fonts/FKGroteskTrial-Bold.ttf') format("truetype"), url('../fonts/FKGroteskTrial-Bold.otf') format("opentype"), url('../fonts/FKGroteskTrial-Bold.svg') format("svg");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Fkgrotesktrial;
+  src: url('../fonts/FKGroteskTrial-Medium.woff2') format("woff2"), url('../fonts/FKGroteskTrial-Medium.eot') format("embedded-opentype"), url('../fonts/FKGroteskTrial-Medium.woff') format("woff"), url('../fonts/FKGroteskTrial-Medium.ttf') format("truetype"), url('../fonts/FKGroteskTrial-Medium.otf') format("opentype"), url('../fonts/FKGroteskTrial-Medium.svg') format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --black: #292929;
   --white-smoke-2: #f0efed;
